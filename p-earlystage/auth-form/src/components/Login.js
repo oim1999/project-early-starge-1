@@ -40,7 +40,7 @@ function Login({setToken}) {
             </label>
             <div>
                 <button type='submit' className='bg-purple-300 text-white font-b
-                rounded my-4 p-2 w-full'>Submit</button>
+                rounded my-4 p-2 w-full hover:bg-purple-100'>Submit</button>
             </div>
 
         </form>    
